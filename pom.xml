@@ -20,6 +20,8 @@
         <module>design-sample-1-01</module>
         <module>design-sample-1-02</module>
         <module>design-sample-2-00</module>
+        <module>design-sample-2-01</module>
+        <module>design-sample-2-02</module>
     </modules>
 
     <dependencies>
