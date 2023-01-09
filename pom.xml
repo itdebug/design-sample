@@ -18,6 +18,7 @@
     <modules>
         <module>design-sample-1-00</module>
         <module>design-sample-1-01</module>
+        <module>design-sample-1-02</module>
     </modules>
 
     <dependencies>
