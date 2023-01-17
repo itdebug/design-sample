@@ -4,7 +4,7 @@
 
   <parent>
     <groupId>cn.itdebug</groupId>
-    <artifactId>itdebug-sample</artifactId>
+    <artifactId>design-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
 
