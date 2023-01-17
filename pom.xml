@@ -32,6 +32,8 @@
         <module>design-sample-6-00</module>
         <module>design-sample-6-01</module>
         <module>design-sample-6-02</module>
+        <module>design-sample-7-00</module>
+        <module>design-sample-7-01</module>
     </modules>
 
     <dependencies>
