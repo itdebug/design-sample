@@ -38,6 +38,9 @@
         <module>design-sample-8-01</module>
         <module>design-sample-8-011</module>
         <module>design-sample-8-012</module>
+        <module>design-sample-9-00</module>
+        <module>design-sample-9-01</module>
+        <module>design-sample-9-02</module>
     </modules>
 
     <dependencies>
