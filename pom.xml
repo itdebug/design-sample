@@ -41,6 +41,11 @@
         <module>design-sample-9-00</module>
         <module>design-sample-9-01</module>
         <module>design-sample-9-02</module>
+        <module>design-sample-10-00</module>
+        <module>design-sample-10-01</module>
+        <module>design-sample-10-02</module>
+        <module>design-sample-11-00</module>
+        <module>design-sample-11-01</module>
     </modules>
 
     <dependencies>
