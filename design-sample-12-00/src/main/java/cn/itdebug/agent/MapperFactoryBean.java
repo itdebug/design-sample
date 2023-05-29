@@ -23,7 +23,7 @@ public class MapperFactoryBean<T> implements FactoryBean<T> {
             Select select = method.getAnnotation(Select.class);
             logger.info("SQL: {}", select.value().replace("#{uId}", args[0].toString()));
             //此处模拟查询数据库
-            return args[0] + ",小傅哥，bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获";
+            return args[0] + ";;此处模拟查询数据库;;";
         });
         return (T) Proxy.newProxyInstance(this.getClass().getClassLoader(), new Class[]{mapperInterface}, handler);
     }
